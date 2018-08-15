@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;
+}
+.jumbotron{
+  background-color:lightblue;
+font-style: oblique;
+font-family: cursive;
+}
+
+#title{
+  color:blacks;
+  text-align:20px
+}
+p {
+  color:black;
+}
+.pic{
+margin-left:auto;
+margin-right:auto;
+display:block;
+
+}
